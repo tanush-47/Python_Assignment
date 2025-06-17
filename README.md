@@ -79,3 +79,36 @@ Q6. WAP to create a list of 100 random numbers between 100 and 900. Count and pr
 (i) All odd numbers 
 (ii) All even numbers 
 (iii) All prime numbers 
+
+Q7. D is a dictionary defined as D={1:"One",2:"Two",3:"Three",4:"Four", 5:"Five"}.  
+
+WAP to read all the keys and values from dictionary and write to the file in the given below format. 
+
+Key1, Value1
+
+Key2, Value2
+
+Key3, Value3
+
+Q8. L is a list defined as L={"One","Two","Three","Four","Five"}. 
+
+WAP to count the length of reach element from a list and write to the file in the given below format: 
+
+One, 3 
+
+Two, 3 
+
+Four, 4 
+
+Q9. Write to the file 100 random strings whose length between 10 and 15. 
+
+Q10. Write to the file all prime numbers between 600 and 800. 
+
+Q11. WAP to calculate the time taken by a program. 
+
+Q12. WAP to sort following number of elements in a list, calculate time taken and plot the graph.  
+
+![Screenshot (11)](https://github.com/user-attachments/assets/cf50285b-65ea-49c1-80ab-f07206d8fd60)
+
+Q13. WAP to create a dictionary of student marks in five subjects and you have to find the student  
+having maximum and minimum average marks. 
